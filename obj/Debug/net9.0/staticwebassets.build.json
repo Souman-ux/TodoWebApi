@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AEPKG9x49V6PpLnsS4+3QlT6krRY/xEnGMSI21qimpg=",
+  "Source": "TodoWebApi",
+  "BasePath": "_content/TodoWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

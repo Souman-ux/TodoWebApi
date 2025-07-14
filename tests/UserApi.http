@@ -1,0 +1,14 @@
+### Add new user
+POST https://localhost:7018/user
+Content-Type: application/json
+
+{
+  "userName": "alice",
+  "password": "password123"
+}
+
+### Verify login (correct password)
+GET https://localhost:7018/user?username=alice&password=password123
+
+### Verify login (wrong password)
+GET https://localhost:7018/user?username=alice&password=wrongpassword

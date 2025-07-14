@@ -1,0 +1,27 @@
+### Add a new Todo item
+POST https://localhost:7018/todo
+Content-Type: application/json
+
+{
+  "title": "Finish ASP.NET assignment",
+  "isComplete": false
+}
+
+### Get all Todo items
+GET https://localhost:7018/todo
+
+### Get a specific Todo item by ID
+GET https://localhost:7018/todo/1
+
+### Update a Todo item
+PUT https://localhost:7018/todo/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "title": "Finish and submit assignment",
+  "isComplete": true
+}
+
+### Delete a Todo item
+DELETE https://localhost:7018/todo/1

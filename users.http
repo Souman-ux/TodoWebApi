@@ -1,0 +1,8 @@
+### Add user (POST)
+POST http://localhost:5237/api/users?username=john&password=secret
+Content-Type: application/json
+
+###
+
+### Validate user (GET)
+GET http://localhost:5237/api/users/validate?username=john&password=secret
