@@ -44,3 +44,4 @@
 /Users/s2401550/Documents/portfolio/ohjelmistokehittajana-toimiminen/asp.net-perusteet/TodoWebApi/bin/Debug/net9.0/Serilog.Sinks.Console.dll
 /Users/s2401550/Documents/portfolio/ohjelmistokehittajana-toimiminen/asp.net-perusteet/TodoWebApi/bin/Debug/net9.0/Serilog.Sinks.Debug.dll
 /Users/s2401550/Documents/portfolio/ohjelmistokehittajana-toimiminen/asp.net-perusteet/TodoWebApi/bin/Debug/net9.0/Serilog.Sinks.File.dll
+/Users/s2401550/Documents/portfolio/ohjelmistokehittajana-toimiminen/asp.net-perusteet/TodoWebApi/obj/Debug/net9.0/TodoWebApi.sourcelink.json
